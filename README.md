@@ -33,3 +33,10 @@ Run the bot
 ```
 python3 main.py
 ```
+
+Command list
+```
+start - Start the bot
+zip - Start the zipping process. The bot will now accept files to be zipped.
+stopzip - Stop the zipping process, zip the received files, and send the zipped file back to the user.
+```
