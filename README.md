@@ -27,7 +27,7 @@ Replace
 ```
 YOUR_BOT_TOKEN_HERE
 ``` 
-with your bot token
+with your bot token in the main.py file
 
 Run the bot
 ```
